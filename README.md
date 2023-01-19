@@ -24,7 +24,7 @@ To deploy this project run
 ## Requirements
 
 ensure that you have downloaded these libraries in your pc
-if not then download them using : pip install --libraryname--
+if not then download them using : pip install __libraryname__
 
 1. sklearn
 2. streamlit
