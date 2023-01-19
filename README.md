@@ -6,7 +6,7 @@ specially multinomial naive bayes algorithm which gives a effective precision an
 ## Acknowledgements
 
  - [Data set ](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?select=spam.csv)
- - [Local URL]([http://localhost:8501](http://192.168.29.248:8501))
+ - [Local URL](http://localhost:8501](http://192.168.29.248:8501)
 
 
 Special thanks to: http://campusx.in
