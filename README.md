@@ -2,7 +2,7 @@
 # Email Spam Classifier
 The project is made using python using different kind of libraries
 and Machine Learning algorithm popularly known as Naive Bayes
-specially multinomial naive bayes algorithm which gives a effective precision and accuracy on text based projects.
+specially multinomial naive bayes algorithm which gives an effective precision and accuracy on text based projects.
 ## Acknowledgements
 
  - [Data set ](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?select=spam.csv)
