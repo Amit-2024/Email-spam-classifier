@@ -9,9 +9,6 @@ specially multinomial naive bayes algorithm which gives an effective precision a
  - [Local URL](http://192.168.29.248:8501)
 
 
-Special thanks to: http://campusx.in
-
-
 ## Deployment
 
 To deploy this project run
